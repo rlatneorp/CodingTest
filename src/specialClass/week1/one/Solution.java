@@ -1,4 +1,4 @@
-package week1.one;
+package specialClass.week1.one;
 
 import java.util.Arrays;
 

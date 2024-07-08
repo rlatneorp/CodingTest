@@ -1,4 +1,4 @@
-package week2.올바른괄호;
+package specialClass.week2.올바른괄호;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

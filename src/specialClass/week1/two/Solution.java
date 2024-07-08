@@ -1,4 +1,4 @@
-package week1.two;
+package specialClass.week1.two;
 
 //class Solution {
 //    public int solution(int[] nums) {

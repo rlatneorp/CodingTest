@@ -1,8 +1,7 @@
-package week2.dailyTemperatures;
+package specialClass.week2.dailyTemperatures;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
-import java.util.Stack;
 
 public class Solution {
      public int[] solution(int[] temps) {

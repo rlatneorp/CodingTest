@@ -1,4 +1,4 @@
-package week2.두_큐_합_같게_만들기;
+package specialClass.week2.두_큐_합_같게_만들기;
 
 import java.util.ArrayDeque;
 import java.util.Queue;
