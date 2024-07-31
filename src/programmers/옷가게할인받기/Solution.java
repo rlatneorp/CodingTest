@@ -9,7 +9,7 @@ class Solution {
             answer = (int) (price - price * 0.05);
         }
         if (price >= 300000){
-            anser = (int)
+            answer = (int) (price - price * 0.15);
         }
         return answer;
     }
